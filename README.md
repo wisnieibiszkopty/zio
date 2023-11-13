@@ -1,9 +1,17 @@
-# zio
 projekt na zaawansowaną inżynierie oprogramowania
 
-Kopiowanie projektu 
+Kopiowanie projektu
 
-tworzymy branch na githubie
+w git bash: 
+git clone -b 'branch' https://github.com/wisnieibiszkopty/zio.
+git branch
+branch, to odpowiednio nazwa twojego branchu np. kamil
 
-w git bash:
-git clone -b 'brach' https://github.com/wisnieibiszkopty/zio.git
+Pushowanie projektu:
+
+git checkout yourbranch 
+git add . 
+git config --global user.email "you@example.com" 
+git config --global user.name "Your Name" 
+git commit -m "commit name" 
+git push origin yourbranch
