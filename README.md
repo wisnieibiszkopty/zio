@@ -15,3 +15,5 @@ git config --global user.email "you@example.com"
 git config --global user.name "Your Name" 
 git commit -m "commit name" 
 git push origin yourbranch
+
+Stad brac uml: https://people.cs.ksu.edu/~reshma/798_ClassDiagram.htm
